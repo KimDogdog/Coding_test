@@ -9,7 +9,6 @@ public class N_lunch_Game {
 
         char[] arr = new char[m * t]; //숫자들의 진법이 들어갈 배열
 
-
         for (int i = 0; i < arr.length; ) {
 
             //n진수로 변환
